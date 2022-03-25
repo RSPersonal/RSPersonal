@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSPersonal
 - 👀 I’m interested in DnD, Games, Making music, drawing, programming
-- 🌱 I’m currently learning Python and PHP 
+- 🌱 I’m currently learning Python/Django 
 - 💞️ I’m looking to collaborate on entry level projects
 - 📫 How to reach me by
 

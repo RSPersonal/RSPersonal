@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raphael Sp.</h1>
-<h3 align="center">A passionate developer from the Netherlands</h3>
+<h3 align="center">A passionate programmer from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rspersonal&label=Profile%20views&color=0e75b6&style=flat" alt="rspersonal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rspersonal" alt="rspersonal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.r-sparenberg-portfolio.com](www.r-sparenberg-portfolio.com)
+- 👨‍💻 All of my projects are available at www.r-sparenberg-portfolio.com
 
 - 📄 Know about my experiences [www.r-sparenberg-portfolio.com](www.r-sparenberg-portfolio.com)
 
